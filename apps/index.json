@@ -1,10 +1,11 @@
 {
   "apps":[
     [
-      {"name":"blank"},
-      {"desc":"Sample Application for JoeOS and the JoeOStore"},
+      {"name":"AppTest"},
+      {"desc":"Sample Application for JoeOS and the JoeOStore. How well will this run?!"},
       {"author":"O9Creeps"},
-      {"sourceURL":"about:blank"}
+      {"vers":"1.0.0"},
+      {"sourcePATH":"./programs/apptest/project.pmp"}
     ]
   ]
 }

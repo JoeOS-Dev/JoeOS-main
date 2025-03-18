@@ -4,7 +4,7 @@
       {"name":"AppTest"},
       {"desc":"Sample Application for JoeOS and the JoeOStore. How well will this run?!"},
       {"author":"O9Creeps"},
-      {"vers":"1.0.0"},
+      {"ver":"1.0.0"},
       {"sourcePATH":"./programs/apptest/project.pmp"}
     ]
   ]

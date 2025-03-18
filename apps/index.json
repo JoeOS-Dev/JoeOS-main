@@ -1,0 +1,10 @@
+{
+  "apps":[
+    [
+      {"name":"blank"},
+      {"desc":"Sample Application for JoeOS and the JoeOStore"},
+      {"author":"O9Creeps"},
+      {"sourceURL":"about:blank"}
+    ]
+  ]
+}

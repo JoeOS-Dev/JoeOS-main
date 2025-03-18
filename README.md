@@ -1,7 +1,7 @@
 # JoeOShop
 A shop for JoeOS.\
 \
-> **DO NOT MERGE WITH MAIN BRANCH, IT WILL BREAK STUFF!!!**\
+> **DO NOT PULL REQUEST TO MAIN BRANCH, IT WILL BREAK STUFF!!!**\
 
 ***
 Possible apps may include:

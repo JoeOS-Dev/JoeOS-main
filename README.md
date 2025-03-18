@@ -1,6 +1,6 @@
 # JoeOShop
-A shop for JoeOS.\
-\
+A shop for JoeOS.
+
 > **DO NOT PULL REQUEST TO MAIN BRANCH, IT WILL BREAK STUFF!!!**\
 
 ***
